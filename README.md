@@ -1,2 +1,2 @@
 # PCAP_Extract_Request
- Packet extraction according to delay time in Time-Based SQL injection attack technique
+Extract packets according to delay time when a **Time-Based SQL injection** attack technique occurs in a pcap format file (**Wireshark**)
