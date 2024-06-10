@@ -10,3 +10,8 @@ pcap_file = 'input_file.pcap'
 # Input delay time for successful Time-Based SQL injection
 setTime = 3
 ```
+
+## Requirement
+```bash
+pip install pyshark
+```
